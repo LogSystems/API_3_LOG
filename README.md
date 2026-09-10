@@ -72,5 +72,4 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 | 01                | 02/10/2026 | em andamento | [MVP](MVP/sp1.md)  |
 | 02                | 30/10/2026 | a fazer | [MVP](MVP/sp2.md)  |
 | 03                | 27/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
 
