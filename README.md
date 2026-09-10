@@ -28,15 +28,12 @@ Seguindo a metodologia ágil Scurm, o projeto foi divido em três ciclos de entr
 
 # Objetivo do Projeto
 Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um dashboard que permita visualizar:
-* As principais fiscalizações realizadas no Vale do Paraíba no ano de 2018;
-* Os municípios com maior número de fiscalizações;
-* Os principais tipos de instrumentos ou serviços fiscalizados;
-* A quantidade de fiscalizações regulares e irregulares;
-* As principais irregularidades encontradas nas fiscalizações;
-* A evolução das fiscalizações ao longo do ano de 2018;
-* As principais empresas ou estabelecimentos fiscalizados;
-* A distribuição das fiscalizações por região ou município;
-* Os municípios e segmentos com maior concentração de irregularidades.
+* As principais fiscalizações realizadas;
+* A maximização da formação das equipes 
+* A melhor distribuição das equipes pelo mapa
+* Otimização de tempo de deslocamento das equipes
+* O histórico de movimentações feitas pelas equipes
+* Os municípios que mais recebem fiscais
 
 
 ## Tecnologias Utilizadas
