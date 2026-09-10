@@ -41,7 +41,6 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 
 ## Tecnologias Utilizadas
 
-* Office
 * Power BI
 * Pacote Office
 * Python (Colab)
@@ -53,15 +52,15 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como gestor do IPEM, quero visualizar as principais cargas perigosas movimentadas, para identificar quais representam maior volume.                     | 15          | 1      |
-| 2    | Alta       | Como gestor do IPEM, quero identificar os modais mais utilizados no transporte de cargas perigosas, para entender padrões logísticos.                   | 10          | 1      |
-| 3    | Alta       | Como gestor do IPEM, quero visualisar os principais municípios de origem de cargas, apra mapear polos emissores.                                       | 5          | 1      |
-| 4    | Alta      | Como gestor do IPEM, quero visualizar os principais destinos, para entender o fluxo logístico.                                                           | 5        | 1      |
-| 5    | Alta      | Como gestor do IPEM, quero acompanhar a evolução da movimentação ao longo do tempo, para identificar tendências.                                         | 20          | 1      |
-| 6    | Alta      | Como gestor do IPEM, quero visualizar as principais empresas que transportam cargas perigosas, para priorizar auditorias.                                | 10          | 1      |
-| 7    | Alta      | Como gestor do IPEM, quero aplicar filtros (tempo, tipo de carga, modal, região), para realizar análises personalizadas.                                 | 2          | 1      |
-
-
+| 1    | Alta       | Como gestor do IPEM, quero analisar a área que cada equipe atendeu, para entender o histórico de movimentações.                     | 21          | 1      |
+| 2    | Alta       | Como gestor do IPEM, quero a quantidade de funcionários disponíveis na filial de São José dos Campos, considerando fiscais e motoristas, para projetar as equipes a serem formadas.                   | 1          | 1      |
+| 3    | Média       | Como gestor do IPEM, quero analisar as rotas seguidas por cada equipe, para verificar o tempo e a distância percorrida.                                       | 21          | 1      |
+| 4    | Alta      | Como gestor do IPEM, quero analisar a quantidade de fiscalizações realizadas por equipe, assim como a média de fiscalizações por equipe, para poder entender se existe equilibrio na distribuição das tarefas.                                                           | 8        | 1      |
+| 5    | Alta      | Como gestor do IPEM, quero analisar quanto tempo em média uma equipe leva para finazalizar seu roteiro de fiscalizações por dia, para dimencionar o tempo de trabalho gasto.                                         | 13          | 2      |
+| 6    | Alta      | Como gestor do IPEM, quero analisar o tempo de deslocamento médio das equipes entre uma empresa e outra, para entender o tempo gasto apenas com movimentações.                                | 8          | 2      |
+| 7    | Alta      | Como gestor do IPEM, quero analisar quais os municípios com maior número de fiscalizações, para entender as cidades onde as equipes mais se concentram.                                 | 5          | 3      |
+| 8    | Média      | Como gestor do IPEM, quero analisar os tipos de instrumentos mais fiscalizados pelas esquipes, para quantificar as fiscalizações mais realizadas.                                 | 5          | 3      |
+| 9    | Média      | Como gestor do IPEM, quero analisar os tipos de serviço mais prestado por equipe, para dimencionar qual a maior demanda de atividades.                                 | 1          | 3      |
 
 
 
@@ -70,8 +69,8 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 29/04/2026 | em andamento | [MVP](MVP/sp1.md)  |
-| 02                | 27/05/2026 | a fazer | [MVP](MVP/sp2.md)  |
-| 03                | 17/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
+| 01                | 02/10/2026 | em andamento | [MVP](MVP/sp1.md)  |
+| 02                | 30/10/2026 | a fazer | [MVP](MVP/sp2.md)  |
+| 03                | 27/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
 
