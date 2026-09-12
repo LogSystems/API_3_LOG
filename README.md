@@ -53,12 +53,14 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 | 2    | Alta       | Como gestor do IPEM, quero a quantidade de funcionários disponíveis na filial de São José dos Campos, considerando fiscais e motoristas, para projetar as equipes a serem formadas.                   | 1          | 1      |
 | 3    | Média       | Como gestor do IPEM, quero analisar as rotas seguidas por cada equipe, para verificar o tempo e a distância percorrida.                                       | 21          | 1      |
 | 4    | Alta      | Como gestor do IPEM, quero analisar a quantidade de fiscalizações realizadas por equipe, assim como a média de fiscalizações por equipe, para poder entender se existe equilibrio na distribuição das tarefas.                                                           | 8        | 1      |
-| 5    | Alta      | Como gestor do IPEM, quero analisar quanto tempo em média uma equipe leva para finazalizar seu roteiro de fiscalizações por dia, para dimencionar o tempo de trabalho gasto.                                         | 13          | 2      |
-| 6    | Alta      | Como gestor do IPEM, quero analisar o tempo de deslocamento médio das equipes entre uma empresa e outra, para entender o tempo gasto apenas com movimentações.                                | 8          | 2      |
-| 7    | Alta      | Como gestor do IPEM, quero analisar quais os municípios com maior número de fiscalizações, para entender as cidades onde as equipes mais se concentram.                                 | 5          | 3      |
-| 8    | Média      | Como gestor do IPEM, quero analisar os tipos de instrumentos mais fiscalizados pelas esquipes, para quantificar as fiscalizações mais realizadas.                                 | 5          | 3      |
-| 9    | Média      | Como gestor do IPEM, quero analisar os tipos de serviço mais prestado por equipe, para dimencionar qual a maior demanda de atividades.                                 | 1          | 3      |
+| 5    | Alta      | Como gestor, quero um arranjo com a formação ideal das equipes, de forma a maximizar o tempo e a área de atendimento                                                           | 34        | 1      |
+| 6    | Alta      | Como gestor do IPEM, quero analisar quanto tempo em média uma equipe leva para finazalizar seu roteiro de fiscalizações por dia, para dimencionar o tempo de trabalho gasto.                                         | 13          | 2      |
+| 7    | Alta      | Como gestor do IPEM, quero analisar o tempo de deslocamento médio das equipes entre uma empresa e outra, para entender o tempo gasto apenas com movimentações.                                | 8          | 2      |
+| 8    | Alta      | Como gestor do IPEM, quero analisar quais os municípios com maior número de fiscalizações, para entender as cidades onde as equipes mais se concentram.                                 | 5          | 3      |
+| 9    | Média      | Como gestor do IPEM, quero analisar os tipos de instrumentos mais fiscalizados pelas esquipes, para quantificar as fiscalizações mais realizadas.                                 | 5          | 3      |
+| 10    | Média      | Como gestor do IPEM, quero analisar os tipos de serviço mais prestado por equipe, para dimencionar qual a maior demanda de atividades.                                 | 1          | 3      |
 
+Como gestor, quero um arranjo com a formação ideal das equipes, de forma a maximizar o tempo e a área de atendimento
 
 
   
