@@ -26,6 +26,7 @@
 | US2 | Como gestor do IPEM, quero a quantidade de funcionários disponíveis na filial de São José dos Campos, considerando fiscais e motoristas, para projetar as equipes a serem formadas.        | Alta      | 1    |
 | US3 | Como gestor do IPEM, quero analisar as rotas seguidas por cada equipe, para verificar o tempo e a distância percorrida.                          | Alta      | 21    |
 | US4 | Como gestor do IPEM, quero analisar a quantidade de fiscalizações realizadas por equipe, assim como a média de fiscalizações por equipe, para poder entender se existe equilibrio na distribuição das tarefas.                                             | Alta     | 8    |
+| US5 | Como gestor, quero um arranjo com a formação ideal das equipes, de forma a maximizar o tempo e a área de atendimento      | Alta                                                           | 34        | 1      |
 
 
 ---
