@@ -59,9 +59,9 @@
 ---
 
 ## 🚀 Próximos Passos
-Finalizar o tratamento dos dados;
-Adicionar as informações de latitude e longitude;
-Finalizar o dashboard interativo no Power BI.
+- Finalizar o tratamento dos dados;
+- Adicionar as informações de latitude e longitude;
+- Finalizar o dashboard interativo no Power BI.
 
 ---
 
