@@ -66,7 +66,16 @@
 ---
 
 ## 📂 Anexos / Evidências
+📎 Documentação
+
+[**Acessar relatório completo — 1º Sprint →**](https://github.com/user-attachments/files/32973057/Relatorio--logsystem.1.sprint.docx)
+
+
 <img width="1354" height="768" alt="Vídeo_dashboard_sprint1_qualidade" src="https://github.com/user-attachments/assets/7ad213c5-e763-49a0-a75e-2902ca027dd1" />
+
+
+
+
 
 
 
