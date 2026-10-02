@@ -61,7 +61,7 @@
 ## 🚀 Próximos Passos
 - Finalizar o tratamento dos dados;
 - Adicionar as informações de latitude e longitude;
-- Finalizar o dashboard interativo no Power BI.
+- Iniciar a criação da base de dados com a otimização das equipes.
 
 ---
 
