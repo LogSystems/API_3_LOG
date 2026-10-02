@@ -66,7 +66,8 @@
 ---
 
 ## 📂 Anexos / Evidências
-<img width="282" height="160" alt="Adobe Express - Vídeo_dashboard_sprint1" src="https://github.com/user-attachments/assets/c641c628-be0e-4379-95a6-c0cf9bafee34" />
+<img width="1354" height="768" alt="Vídeo_dashboard_sprint1_qualidade" src="https://github.com/user-attachments/assets/7ad213c5-e763-49a0-a75e-2902ca027dd1" />
+
 
 
 
