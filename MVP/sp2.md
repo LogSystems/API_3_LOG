@@ -1,11 +1,11 @@
 # 📌 MVP - LogSystem - Sprint 2
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?
-
+- Entregar ao usuário um dashboard que permita visualizar o tempo médio que as equipes levam para finalizar seus roteiros diários de fiscalização;
+- Analisar o tempo médio de deslocamento das equipes entre uma empresa e outra;
+- Tratar e organizar os dados fornecidos pelo IPEM para possibilitar o cálculo dos indicadores de tempo no Power BI;
+- Fornecer informações que auxiliem na identificação de oportunidades de melhoria no planejamento das rotas e na distribuição das atividades;
+- Documentar em relatório as análises realizadas e os resultados encontrados.
 ---
 
 ## 📝 Descrição da Solução
