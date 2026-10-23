@@ -45,7 +45,7 @@
 
 | Integrante | Atividades |
 |---|---|
-| Caio César | Responsável pela organização e manutenção do repositório no GitHub, gerenciando os arquivos, documentações e atualizações do projeto, garantindo o versionamento e a organização do código e dos materiais desenvolvidos pela equipe. |
+| Caio César | Responsável pela organização e manutenção do repositório no GitHub, gerenciando os arquivos, documentações e atualizações do projeto, garantindo a organização do código e dos materiais desenvolvidos pela equipe. |
 | Luiz Felipe Pacheco | Auxílio no tratamento e na organização dos dados fornecidos pelo IPEM e organização e acompanhamento das atividades da equipe. |
 | Luiz Henrique Soares | Responsável pela atualização e organização do Jira, acompanhando o andamento das tarefas, registrando o progresso das atividades e mantendo o backlog e as Sprints atualizados conforme a evolução do projeto. |
 | Pedro Henrique Affonso | Responsável pela elaboração do relatório geral da Sprint, documentando passo a passo as atividades realizadas, os processos desenvolvidos, os resultados obtidos e as dificuldades encontradas, garantindo o registro organizado da evolução do projeto. |
