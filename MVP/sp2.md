@@ -25,6 +25,7 @@
 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
+| US3 | Como gestor do IPEM, quero analisar as rotas seguidas por cada equipe, para verificar o tempo e a distância percorrida.                          | Alta      | 21    |
 | US6 | Como gestor do IPEM, quero analisar quanto tempo, em média, uma equipe leva para finalizar seu roteiro de fiscalizações por dia, para dimensionar o tempo de trabalho gasto.         | Alta       | 13 pontos   |
 | US7 | Como gestor do IPEM, quero analisar o tempo médio de deslocamento das equipes entre uma empresa e outra, para entender o tempo gasto apenas com movimentações.         | Alta      | 8 pontos   |
 
