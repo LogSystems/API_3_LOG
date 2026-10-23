@@ -37,10 +37,8 @@
 | 02     | Adicionar informações de latitude e longitude dos endereços.                      | Concluído|
 | 03     | Criar base de dados da otimização de tempo e das equipes                      | Em andamento|
 | 04     | Criar mapa de roteirização no Power BI.                      | Concluído|
-| 06     | 	Validar os resultados obtidos e verificar a consistência dos cálculos.                      | Concluído|
-| 07     | Relatar no documento de desenvolvimento os resultados encontrados.                      | Concluído|
 
-
+  
 ---
 
 ## 👥 Divisão de Atividades da Equipe
