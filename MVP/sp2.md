@@ -1,7 +1,7 @@
 # 📌 MVP - LogSystem - Sprint 2
 
 ## 🎯 Objetivo do MVP
-- Entregar ao usuário uma fonte de analise referente a distribuição real e otimizada das equipes frente;
+- Entregar ao usuário uma fonte de analise referente a distribuição real e otimizada das equipes;
 - Otimizar a distribuição das equipes visando redistribuir a quantidade de verificações e roteiros realizados;
 - Tratar e organizar os dados fornecidos pelo IPEM para possibilitar o cálculo dos indicadores de tempo no Power BI;
 - Fornecer informações que auxiliem na identificação de oportunidades de melhoria no planejamento das rotas e na distribuição das atividades;
