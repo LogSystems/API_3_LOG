@@ -68,7 +68,7 @@ Como gestor, quero um arranjo com a formação ideal das equipes, de forma a max
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 02/10/2026 | em andamento | [MVP](MVP/sp1.md)  |
-| 02                | 30/10/2026 | a fazer | [MVP](MVP/sp2.md)  |
+| 01                | 02/10/2026 | feito | [MVP](MVP/sp1.md)  |
+| 02                | 30/10/2026 | feito | [MVP](MVP/sp2.md)  |
 | 03                | 27/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 
