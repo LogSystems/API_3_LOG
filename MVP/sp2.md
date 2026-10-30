@@ -82,8 +82,12 @@
 
 https://app.powerbi.com/view?r=eyJrIjoiZTg0MDNiMGQtYzljNy00N2RjLThhNDUtNGQ3YmQ4OWE0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
 
-- Relatório da Sprint 2:
-    [Relatório](Docs/relatório.logsystem.sprint2.docx)
+- Dashboard:
+<img width="692" height="388" alt="Gravação de Tela 2026-10-30 191831" src="https://github.com/user-attachments/assets/183b58af-051a-468d-81f5-64df2e09fdba" />
+
+
+
+
 
 
 
