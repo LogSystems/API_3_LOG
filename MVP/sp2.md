@@ -1,19 +1,18 @@
 # 📌 MVP - LogSystem - Sprint 2
 
 ## 🎯 Objetivo do MVP
-- Entregar ao usuário um dashboard que permita visualizar o tempo médio que as equipes levam para finalizar seus roteiros diários de fiscalização;
-- Analisar o tempo médio de deslocamento das equipes entre uma empresa e outra;
+- Entregar ao usuário uma fonte de analise referente a distribuição real e otimizada das equipes frente;
+- Otimizar a distribuição das equipes visando redistribuir a quantidade de verificações e roteiros realizados;
 - Tratar e organizar os dados fornecidos pelo IPEM para possibilitar o cálculo dos indicadores de tempo no Power BI;
 - Fornecer informações que auxiliem na identificação de oportunidades de melhoria no planejamento das rotas e na distribuição das atividades;
-- Documentar em relatório as análises realizadas e os resultados encontrados.
 ---
 
 ## 📝 Descrição da Solução
-- Tratamento e organização dos dados referentes aos horários das fiscalizações e aos deslocamentos das equipes;
-- Cálculo do tempo médio necessário para a conclusão dos roteiros diários de fiscalização;
-- Cálculo do tempo médio de deslocamento entre uma empresa e outra;
-- Criação de gráficos e indicadores no Power BI para facilitar a análise e a comparação dos tempos;
-- Elaboração de relatório com os resultados obtidos e as possíveis oportunidades de melhoria identificadas.
+- Tratamento e organização dos dados referentes aos deslocamentos das equipes;
+- Filtragem por equipe, semana e data das fiscalizações;
+- Mapa de roteirização;
+- Gráficos com a distribuição de verificações realizadas por equipe e por cidade;
+- Cartões com a quantidade de equipes disponíveis, roteiros e verificações.
 
 ---
 
@@ -34,9 +33,9 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Calibrar os dados referentes a localização.                           | Em andamento |
+| 01     | Calibrar os dados referentes a localização.                           | Concluído |
 | 02     | Adicionar informações de latitude e longitude dos endereços.                      | Concluído|
-| 03     | Criar base de dados da otimização de tempo e das equipes                      | Em andamento|
+| 03     | Delimitar a área analisada (piloto) às cidades de São José dos Campos, Caçapava e Taubaté                      | Concluído|
 | 04     | Criar mapa de roteirização no Power BI.                      | Concluído|
 
   
@@ -53,8 +52,7 @@
 | Thiago Moreira | Auxílio na criação de gráficos e visualizadores no Power BI e levantamento de requisitos, organização do backlog e acompanhamento das necessidades do cliente. |
 
 ## 📊 Critérios de Aceitação
-- O dashboard deve permitir que o usuário visualize o tempo médio de conclusão dos roteiros diários de fiscalização;
-- A solução deve apresentar o tempo médio de deslocamento entre uma empresa e outra, conforme os dados disponíveis;
+- O dashboard deve permitir que o usuário visualize os roteiros diários realizados assim como as equipes de fiscalização;
 - Os indicadores devem ser calculados a partir dos registros fornecidos pelo IPEM;
 - Os gráficos devem facilitar a leitura, a interpretação e a comparação das informações;
 - Os dados tratados devem apresentar consistência suficiente para permitir análises confiáveis.
@@ -63,11 +61,9 @@
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP: a ser registrado após a realização dos testes;
-- Feedback qualitativo: avaliação positiva ou negativa dos usuários sobre a clareza e a utilidade dos indicadores;
-- Utilidade real para o cliente: verificar se as informações auxiliam o gestor na análise do tempo de trabalho e dos deslocamentos das equipes;
-- Consistência dos dados: verificar se os tempos calculados correspondem aos registros disponíveis;
-- Funcionamento dos visualizadores: avaliar se os gráficos apresentam corretamente os indicadores propostos.
+-Número de usuários que testaram o MVP: 01
+- Feedback qualitativo (positivo/negativo)
+- Utilidade real para o cliente
 
 ---
 
@@ -76,16 +72,15 @@
 - Verificar a disponibilidade e a qualidade das informações necessárias para calcular os tempos;
 - Desenvolver os cálculos dos indicadores de tempo médio;
 - Criar os visualizadores no Power BI;
-- Validar os resultados e realizar os ajustes necessários;
-- Documentar as análises e os resultados encontrados;
 - Dar continuidade às funcionalidades previstas para a Sprint 3. 
 
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Acesso ao Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiZTg0MDNiMGQtYzljNy00N2RjLThhNDUtNGQ3YmQ4OWE0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
+
 
  
