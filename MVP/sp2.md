@@ -83,7 +83,7 @@
 https://app.powerbi.com/view?r=eyJrIjoiZTg0MDNiMGQtYzljNy00N2RjLThhNDUtNGQ3YmQ4OWE0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
 
 - Relatório da Sprint 2:
-    [Docs](docs/relatório.logsystem.2ºsprint)
+    [Docs](docs/Docs/relatório.logsystem.sprint2.docx)
 
 
 
