@@ -79,7 +79,11 @@
 
 ## 📂 Anexos / Evidências
 - Acesso ao Dashboard:
+
 https://app.powerbi.com/view?r=eyJrIjoiZTg0MDNiMGQtYzljNy00N2RjLThhNDUtNGQ3YmQ4OWE0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9
+
+- Relatório da Sprint 2:
+[Doc](Relatório - LogSystem - 2º Sprint.md)
 
 
 
