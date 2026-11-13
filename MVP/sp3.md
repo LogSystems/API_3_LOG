@@ -59,14 +59,8 @@
 
 ---
 
-## 📂 Anexos / Evidências
-- 📥 [Clique aqui para baixar o Relatório](https://github.com/LogSystems/API_3_LOG/raw/refs/heads/main/Docs/relatoriosprint3.docx)
-
-
----
-
 ## 📝 Relatório
-O desenvolvimento do projeto consiste na análise e otimização dos roteiros
+  O desenvolvimento do projeto consiste na análise e otimização dos roteiros
 de fiscalização do IPEM-SP, com foco na filial de São José dos Campos e nos
 registros referentes ao ano de 2018. Inicialmente, foi realizada a extração,
 limpeza e organização dos dados, corrigindo informações inconsistentes e
@@ -75,7 +69,7 @@ fiscalizados. Em seguida, foi feita a geolocalização dos endereços por meio d
 OpenStreetMap, permitindo identificar as coordenadas dos estabelecimentos e
 organizar os locais de visitação.
 
-Com os dados tratados e georreferenciados, foram calculadas as distâncias
+  Com os dados tratados e georreferenciados, foram calculadas as distâncias
 percorridas entre os pontos de fiscalização, incluindo os deslocamentos de
 ida e volta à base do IPEM-SP. Também foram realizadas verificações para
 avaliar a qualidade das coordenadas e a confiabilidade das distâncias estimadas.
@@ -86,6 +80,15 @@ alimentar dashboards no Power BI, possibilitando comparar os cenários reais
 e otimizados, identificar oportunidades de redução de deslocamentos e avaliar
 melhorias na utilização do tempo e dos recursos disponíveis nas atividades
 de fiscalização.
+
+
+---
+
+## 📂 Anexos / Evidências
+📥 [Clique aqui para baixar o Relatório](https://github.com/LogSystems/API_3_LOG/raw/refs/heads/main/Docs/relatoriosprint3.docx)
+
+
+---
 
 
 
