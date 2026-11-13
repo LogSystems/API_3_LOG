@@ -60,7 +60,32 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)
+- 📄 [Relatório da Sprint 2](../Docs/Relatório.LogsSystem.Sprint2.docx)
+
+
+---
+
+## 📝 Relatório
+O desenvolvimento do projeto consiste na análise e otimização dos roteiros
+de fiscalização do IPEM-SP, com foco na filial de São José dos Campos e nos
+registros referentes ao ano de 2018. Inicialmente, foi realizada a extração,
+limpeza e organização dos dados, corrigindo informações inconsistentes e
+estruturando os registros de fiscais, motoristas, estabelecimentos e instrumentos
+fiscalizados. Em seguida, foi feita a geolocalização dos endereços por meio do
+OpenStreetMap, permitindo identificar as coordenadas dos estabelecimentos e
+organizar os locais de visitação.
+
+Com os dados tratados e georreferenciados, foram calculadas as distâncias
+percorridas entre os pontos de fiscalização, incluindo os deslocamentos de
+ida e volta à base do IPEM-SP. Também foram realizadas verificações para
+avaliar a qualidade das coordenadas e a confiabilidade das distâncias estimadas.
+Essas informações serviram de base para a construção dos roteiros reais e para
+o desenvolvimento de um processo de otimização, com o objetivo de encontrar
+trajetos mais eficientes. Por fim, foram estruturadas bases de dados para
+alimentar dashboards no Power BI, possibilitando comparar os cenários reais
+e otimizados, identificar oportunidades de redução de deslocamentos e avaliar
+melhorias na utilização do tempo e dos recursos disponíveis nas atividades
+de fiscalização.
+
+
 
