@@ -1,18 +1,21 @@
 # 📌 MVP - LogSystem - Sprint 3
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?
+- Manter a análise em cima do piloto sugerido pelo cliente  
+- Trazer as informações de Kms percorridos  
+
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)
+- Piloto limitado as cidades de São José dos Campos, Taubaté e Caçapava
+- Métricas utilizadas para otimização: 
+| 1 | Jornada de trabalho de 8 horas, sendo 7 horas trabalhadas;|
+| 2 | Exclusão de fiscais com baixa participação histórica de verificações;
+| 3 | Fixação das equipes, sendo um fiscal para um motorista;|
+| 4 | Recálculo das rotas, ligando os pontos de verificação próximos e limitando o tempo de deslocamento e fiscalização à 7 horas por dia;|
+| 5 | Redistribuição dos roteiros por equipe, equalizando os serviços de forma equilibrada;|
 
 ---
 
@@ -24,37 +27,36 @@
 
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US8  | Como gestor do IPEM, quero analisar quais os municípios com maior número de fiscalizações, para entender as cidades onde as equipes mais se concentram.         | Alta       | 5 pontos   |
+| US9 | Como gestor do IPEM, quero analisar os tipos de instrumentos mais fiscalizados pelas esquipes, para quantificar as fiscalizações mais realizadas.         | Média      | 5 pontos   |
+| US10 | Como gestor do IPEM, quero analisar os tipos de serviço mais prestado por equipe, para dimencionar qual a maior demanda de atividades.         | Média      | 1 pontos   |
+
+
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Cartão com os KMs percorridos por equipe                        | Concluído|
+
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]
-- 
+- Navegação entre as duas páginas  
+- Os filtros devem puxar as informações relacionadas 
+
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 3  
+- Validação do cliente  
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Preparar a apresentação para o cliente  
 
 
 ---
@@ -87,6 +89,8 @@ de fiscalização.
 ## 📂 Anexos / Evidências
 📥 [Clique aqui para baixar o Relatório](https://github.com/LogSystems/API_3_LOG/raw/refs/heads/main/Docs/relatoriosprint3.docx)
 
+Link vídeo:
+[![Assista ao vídeo](<img width="1314" height="857" alt="image" src="https://github.com/user-attachments/assets/7da6d1af-bb63-4a44-a165-6e7ab08e96e9" />.)](https://youtu.be/KWjX6C0knbM)
 
 
 
