@@ -60,7 +60,7 @@ Este projeto tem como objetivo fornecer aos tomadores de decisão do IPEM um das
 | 9    | Média      | Como gestor do IPEM, quero analisar os tipos de instrumentos mais fiscalizados pelas esquipes, para quantificar as fiscalizações mais realizadas.                                 | 5          | 3      |
 | 10    | Média      | Como gestor do IPEM, quero analisar os tipos de serviço mais prestado por equipe, para dimencionar qual a maior demanda de atividades.                                 | 1          | 3      |
 
-Como gestor, quero um arranjo com a formação ideal das equipes, de forma a maximizar o tempo e a área de atendimento
+
 
 
   
