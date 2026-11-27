@@ -70,5 +70,5 @@ Como gestor, quero um arranjo com a formação ideal das equipes, de forma a max
 |-------------------|------------|----------|-----------|
 | 01                | 02/10/2026 | feito | [MVP](MVP/sp1.md)  |
 | 02                | 30/10/2026 | feito | [MVP](MVP/sp2.md)  |
-| 03                | 27/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 27/11/2026 | feito | [MVP](MVP/sp3.md)  |
 
