@@ -92,7 +92,8 @@ Relatório:
 
 
 Link vídeo:
-[![Assista ao vídeo](<img width="1314" height="857" alt="image" src="https://github.com/user-attachments/assets/7da6d1af-bb63-4a44-a165-6e7ab08e96e9" />.)](https://youtu.be/KWjX6C0knbM)
+[![Assista ao vídeo](<img width="1320" height="852" alt="image" src="https://github.com/user-attachments/assets/f82b2975-95cd-4eec-a267-c2b35ca26ba4" />.)](https://youtu.be/KWjX6C0knbM)
+
 
 
 
