@@ -87,7 +87,9 @@ de fiscalização.
 ---
 
 ## 📂 Anexos / Evidências
-📥 [Clique aqui para baixar o Relatório](https://github.com/LogSystems/API_3_LOG/raw/refs/heads/main/Docs/relatoriosprint3.docx)
+
+Relatório:
+
 
 Link vídeo:
 [![Assista ao vídeo](<img width="1314" height="857" alt="image" src="https://github.com/user-attachments/assets/7da6d1af-bb63-4a44-a165-6e7ab08e96e9" />.)](https://youtu.be/KWjX6C0knbM)
