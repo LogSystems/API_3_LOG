@@ -91,6 +91,9 @@ de fiscalização.
 Relatório:
 [Relatório](https://github.com/LogSystems/API_3_LOG/blob/main/Docs/Relatório%20-%203º%20Sprint.pdf)
 
+Solução:
+[Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg0MDNiMGQtYzljNy00N2RjLThhNDUtNGQ3YmQ4OWE0NmU2IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+
 Link vídeo:
 [![Assista ao vídeo](<img width="1320" height="852" alt="image" src="https://github.com/user-attachments/assets/f82b2975-95cd-4eec-a267-c2b35ca26ba4" />.)](https://youtu.be/KWjX6C0knbM)
 
